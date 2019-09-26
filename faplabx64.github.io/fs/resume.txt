@@ -1,0 +1,19 @@
+Hrabets Oleg
+
+github.com/faplabx64 | navalny.anna.or.no@gmail.com | +380509369312
+
+Tools
+* Languages: C/C++, but also learn Java and Python.
+* OS: Linux in use, comfortable with Unix(macOS/BSD), Windows.
+* VCS: git (they all operate almost exactly the same).
+* Text editors: VIM, Atom.
+
+Skills
+
+  Fast learning of unknown tools, stress-resistance, attention to details.
+
+Experience
+
+  Experienced with a lot of languages and tools, system programming, OOP, STL, GUI, databases(low).
+
+Currently unemployed
